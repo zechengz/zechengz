@@ -1,4 +1,4 @@
-### Hello!👋 I am Zecheng.🤓
+### Hello!👋 I am Zecheng🤓
 
 <p align='center'>
 	<a href="https://www.linkedin.com/in/zechengzhang">
@@ -9,6 +9,9 @@
 	</a>
 	<a href="mailto:zecheng@stanford.edu">
 		<img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+	</a>
+	<a href="https://github.com/zechengz">
+		<img src="https://img.shields.io/badge/github-%23252A2E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 	</a>
 </p>
 
