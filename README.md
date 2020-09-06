@@ -1,4 +1,8 @@
-### Hi👋
+### Hello!👋
+
+<p align='center'>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
+</p>
 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/zechengz)
 
