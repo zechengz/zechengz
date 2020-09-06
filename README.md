@@ -1,7 +1,9 @@
 ### Hi👋
 
+![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/zechengz)
+
 * I am Zecheng😊
-* CS Master student at Stanford University🏫
+* Current CS Master student at Stanford University🏫
 * Love ML and data💻
 * Familiar with various CS fields such as deep learning, database, website development and system📚
 * More details please go to my [personal website](http://cs.stanford.edu/~zecheng) or [LinkedIn profile](https://www.linkedin.com/in/zechengzhang/)😺
