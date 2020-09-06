@@ -1,4 +1,4 @@
-### Hello!👋 I am Zecheng🤓
+### Hello!👋 I am Zecheng 🤓
 
 <p align='center'>
 	<a href="https://www.linkedin.com/in/zechengzhang">
@@ -17,10 +17,10 @@
 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/zechengz)
 
-* I am Zecheng😊
-* Current CS Master student at Stanford University🏫
-* Love ML and data💻
-* Familiar with various CS fields such as deep learning, database, website development and system📚
-* More details please go to my [personal website](http://cs.stanford.edu/~zecheng) or [LinkedIn profile](https://www.linkedin.com/in/zechengzhang/)😺
+* I am Zecheng 😊
+* Current CS Master student at Stanford University 🏫
+* Love ML and data 💻
+* Familiar with various CS fields such as deep learning, database, website development and system 📚
+* More details please go to my [personal website](http://cs.stanford.edu/~zecheng) 😺
 
 ![Zecheng's github stats](https://github-readme-stats.vercel.app/api?username=zechengz&show_icons=true&theme=merko)
