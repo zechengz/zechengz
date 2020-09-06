@@ -21,6 +21,7 @@
 
 * I am Zecheng 😊
 * Current CS Master student at Stanford University 🏫
+* Several internship experience 💼
 * Love ML and data 💻
 * Familiar with various CS fields such as deep learning, database, website development and system 📚
 * More details please go to my [personal website](http://cs.stanford.edu/~zecheng) 😺
