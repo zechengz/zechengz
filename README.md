@@ -1,14 +1,14 @@
 ### Hello!👋
 
 <p align='center'>
-	<a href=https://www.linkedin.com/in/zechengzhang>
-		<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white/>
+	<a href="https://www.linkedin.com/in/zechengzhang">
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white/">
 	</a>
-	<a href=https://www.instagram.com/wawazzc>
-		<img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white/>
+	<a href="https://www.instagram.com/wawazzc">
+		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white/">
 	</a>
-	<a href=mailto:zecheng@stanford.edu>
-		<img src=https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white/>
+	<a href="mailto:zecheng@stanford.edu">
+		<img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
 </p>
 
