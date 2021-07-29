@@ -14,6 +14,5 @@
 ### Introduction:
 
 * I am Zecheng 😊
-* Current CS Master student at Stanford University 🏫
 
 ![Zecheng's github stats](https://github-readme-stats.vercel.app/api?username=zechengz&show_icons=true&theme=merko)
