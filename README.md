@@ -6,9 +6,12 @@
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/instagram.svg" />](https://www.instagram.com/wawazzc/)
 
 
-* I am Zecheng 🤓
-* I love coding, reading and learning 😊
+
+- I am Zecheng 🤓
+- I love coding, reading and learning 😊
+
 
 ![Zecheng's github stats](https://github-readme-stats.vercel.app/api?username=zechengz&show_icons=true&theme=merko)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/zechengz)
