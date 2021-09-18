@@ -1,18 +1,14 @@
-## Hello!👋 I am Zecheng 🤓
+## Hello!👋 I am Zecheng 
 
-<p align='center'>
-	<a href="https://www.linkedin.com/in/zechengzhang">
-		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-	</a>
-	<a href="https://github.com/zechengz">
-		<img src="https://img.shields.io/badge/github-%23252A2E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-	</a>
-</p>
+[<img align="left" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://cs.stanford.edu/~zecheng)
+[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=COTsaIgAAAAJ&hl=en)
+[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/linkedin.svg" />](https://www.linkedin.com/in/zechengzhang/)
 
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/zechengz)
 
-### Introduction:
 
-* I am Zecheng 😊
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/zechengz)
+
+* I am Zecheng 🤓
+* I love coding, reading and learning 😊
 
 ![Zecheng's github stats](https://github-readme-stats.vercel.app/api?username=zechengz&show_icons=true&theme=merko)
