@@ -1,4 +1,4 @@
-## Hello!👋 I am Zecheng 
+## Hello!👋 I am Zecheng 😊
 
 [<img align="left" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://cs.stanford.edu/~zecheng)
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=COTsaIgAAAAJ&hl=en)
@@ -8,11 +8,15 @@
 <br/>
 <br/>
 
-- I am Zecheng 🤓
-- I love coding, reading and learning 😊
+Hi, I am Zecheng 🤓
 
 
-![Zecheng's github stats](https://github-readme-stats.vercel.app/api?username=zechengz&show_icons=true&theme=merko)
+![Zecheng's github stats](https://github-readme-stats.vercel.app/api?username=zechengz&count_private=true&show_icons=true&theme=merko)
+
+
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zechengz&theme=dark" alt="so" > </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zechengz&show_icons=true&locale=en&layout=compact&theme=dark" alt="soma2000-lang" > </p>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/zechengz)
