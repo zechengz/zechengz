@@ -3,7 +3,6 @@
 [<img align="left" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://cs.stanford.edu/~zecheng)
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=COTsaIgAAAAJ&hl=en)
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/linkedin.svg" />](https://www.linkedin.com/in/zechengzhang/)
-[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/instagram.svg" />](https://www.instagram.com/wawazzc/)
 
 <br/>
 <br/>
