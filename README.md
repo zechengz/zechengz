@@ -1,16 +1,8 @@
 ## Hello!👋 I am Zecheng 😊
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/zechengzhang" style="text-decoration: none; outline: none; display: inline-block; margin: 0 10px;">
-    <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/zechengzh" style="text-decoration: none; outline: none; display: inline-block; margin: 0 10px;">
-    <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/zechengzh" style="text-decoration: none; outline: none; display: inline-block; margin: 0 10px;">
-    <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/instagram.svg" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zechengzhang"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/linkedin.svg" height="25" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/zechengzh"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" height="25" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zechengzh"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/instagram.svg" height="25" /></a>
+</p>
 
 <br/>
 
