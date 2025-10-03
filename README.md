@@ -14,8 +14,8 @@
   <a href="https://github.com/camel-ai/crab" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=camel-ai&repo=crab&theme=telegram"></a>
   <a href="https://github.com/pyg-team/pytorch_geometric" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pyg-team&repo=pytorch_geometric&theme=telegram"></a>
   <a href="https://github.com/pyg-team/pytorch-frame" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pyg-team&repo=pytorch-frame&theme=telegram"></a>
-  <a href="https://github.com/snap-stanford/relbench" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snap-stanford&repo=relbench&theme=telegram"></a>
   <a href="https://github.com/snap-stanford/deepsnap" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snap-stanford&repo=deepsnap&theme=telegram"></a>
+  <a href="https://github.com/snap-stanford/relbench" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snap-stanford&repo=relbench&theme=telegram"></a>
 </details>
 
 <details open>
